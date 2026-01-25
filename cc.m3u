@@ -1,7 +1,7 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-1 综合
-http://39.134.115.163:8080/PLTV/88888888/224/3221225618/index.m3u8
+rtp://239.253.112.17:9000
 
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视" catchup="append" catchup-days="3" catchup-source="?auth=xxx&starttime=${start}&endtime=${end}",CCTV-6 电影
-http://example.com/cctv6.m3u8
+rtp://239.253.112.22:9000
