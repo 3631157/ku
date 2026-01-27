@@ -119,11 +119,11 @@ rtp://239.253.112.8:9000
 rtp://239.253.112.9:9000
 #EXTINF:-1 tvg-id="重庆汽摩" tvg-name="重庆汽摩" group-title="地方频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111022/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",重庆汽摩
 rtp://239.253.112.11:9000
-#EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="教育频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111064/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CETV-1
+#EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="其他频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111064/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CETV-1
 rtp://239.253.112.83:9000
-#EXTINF:-1 tvg-id="CETV-4" tvg-name="CETV-4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="教育频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111063/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CETV-4
+#EXTINF:-1 tvg-id="CETV-4" tvg-name="CETV-4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="其他频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111063/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CETV-4
 rtp://239.253.112.95:9000
-#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" group-title="教育频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111065/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",山东教育
+#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" group-title="其他频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111065/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",山东教育
 rtp://239.253.112.94:9000
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="其他频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111066/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",卡酷少儿
 rtp://239.253.112.85:9000
