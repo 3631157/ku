@@ -129,6 +129,8 @@ rtp://239.253.112.94:9000
 rtp://239.253.112.85:9000
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="其他频道" catchup-source="39.134.1.62:6610/000000002777/400000000100111072/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",嘉佳卡通
 rtp://239.253.112.67:9000
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="其他频道" catchup-source="39.134.1.62:6610/000000002777/400000000100111073/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",嘉佳卡通
+rtp://239.253.112.66:9000
 #EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" group-title="其他频道" catchup-source="39.134.1.62:6610/000000002777/400000000100111067/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",精彩影视
 rtp://239.253.112.86:9000
 #EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" group-title="其他频道" catchup-source="39.134.1.62:6610/000000002777/400000000100111068/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",求索纪录
