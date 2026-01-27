@@ -135,3 +135,11 @@ rtp://239.253.112.86:9000
 rtp://239.253.112.87:9000
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球HD" group-title="其他频道" catchup-source="39.134.1.62:6610/000000002777/400000000100111069/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",高尔夫网球HD
 rtp://239.253.112.88:9000
+
+
+#EXTINF:-1,tvg-id="JJ斗地主" tvg-name="JJ斗地主" tvg-logo="https://epg.v1.mk/logo/JJ斗地主.png" group-title="重播",JJ斗地主
+https://live.iill.top/bilibili/22021983
+#EXTINF:-1,tvg-id="周星驰" tvg-name="周星驰" tvg-logo="https://epg.v1.mk/logo/周星驰.png" group-title="重播",周星驰系列
+https://live.iill.top/huya/11342412
+
+
