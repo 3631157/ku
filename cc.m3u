@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道" catchup-source="http://39.134.1.137:6610/000000002777/400000000100111001/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z&channel-id=cqgdlive&stbId=005303FF00010060000100E400EB15E4&AuthInfo=%2Bc7PAxsw4tyfkLd%2BO%2FW%2F%2F72dJxI5Y7d5HhzgDhqD7BmrrVhVhZ35UmZhx%2FYB%2BGGu&IASHttpSessionId=RR679320260125093652663264&ispcode=1197",CCTV-1
 rtp://239.253.112.17:9000
 
-#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道" catchup-source="http://39.134.1.137:6610/000000002777/400000000100111002/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z&channel-id=cqgdlive&stbId=005303FF00010060000100E400EB15E4&AuthInfo=%2Bc7PAxsw4tyfkLd%2BO%2FW%2F%2F72dJxI5Y7d5HhzgDhqD7BmrrVhVhZ35UmZhx%2FYB%2BGGu&IASHttpSessionId=RR679320260125093652663264&ispcode=1197",CCTV-2
+#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道" catchup-source="http://39.134.1.137:6610/000000002777/400000000100111002/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z&",CCTV-2
 rtp://239.253.112.18:9000
 
 
