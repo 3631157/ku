@@ -1,145 +1,137 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 
-#GROUP-TITLE:央视频道
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111001/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-1
+
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111001/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-1
 rtp://239.253.112.17:9000
-#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111002/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-2
+#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111002/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-2
 rtp://239.253.112.18:9000
-#EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111057/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-3
+#EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111057/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-3
 rtp://239.253.112.19:9000
-#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111003/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-4
+#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111003/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-4
 rtp://239.253.112.20:9000
-#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111058/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-5
+#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111058/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-5
 rtp://239.253.112.21:9000
-#EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5Plus.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111061/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-5+
+#EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5Plus.png" group-title="央视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111061/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-5+
 rtp://239.253.112.73:9000
-#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111059/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-6
+#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111059/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-6
 rtp://239.253.112.22:9000
-#EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111004/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-7
+#EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111004/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-7
 rtp://239.253.112.23:9000
-#EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111060/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-8
+#EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111060/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-8
 rtp://239.253.112.24:9000
-#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111005/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-9
+#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111005/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-9
 rtp://239.253.112.25:9000
-#EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111006/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-10
+#EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111006/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-10
 rtp://239.253.112.26:9000
-#EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111007/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-11
+#EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111007/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-11
 rtp://239.253.112.10:9000
-#EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111008/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-12
+#EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111008/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-12
 rtp://239.253.112.27:9000
-#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111009/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-13
+#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111009/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-13
 rtp://239.253.112.13:9000
-#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111010/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-14
+#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111010/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-14
 rtp://239.253.112.29:9000
-#EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111011/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-15
+#EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111011/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-15
 rtp://239.253.112.12:9000
-#EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111012/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-17
+#EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111012/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CCTV-17
 rtp://239.253.112.14:9000
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111070/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CGTN
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111070/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CGTN
 rtp://239.253.112.79:9000
-
-#GROUP-TITLE:卫视频道
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111047/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",湖南卫视
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111047/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",湖南卫视
 rtp://239.253.112.58:9000
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111027/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",浙江卫视
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111027/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",浙江卫视
 rtp://239.253.112.37:9000
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111026/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",江苏卫视
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111026/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",江苏卫视
 rtp://239.253.112.36:9000
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111028/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",东方卫视
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111028/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",东方卫视
 rtp://239.253.112.38:9000
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111030/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",北京卫视
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111030/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",北京卫视
 rtp://239.253.112.40:9000
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111029/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",深圳卫视
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111029/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",深圳卫视
 rtp://239.253.112.39:9000
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111038/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",安徽卫视
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111038/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",安徽卫视
 rtp://239.253.112.48:9000
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111031/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",山东卫视
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111031/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",山东卫视
 rtp://239.253.112.41:9000
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111048/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",广东卫视
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111048/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",广东卫视
 rtp://239.253.112.59:9000
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111032/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",天津卫视
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111032/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",天津卫视
 rtp://239.253.112.42:9000
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111034/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",四川卫视
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111034/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",四川卫视
 rtp://239.253.112.44:9000
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111041/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",湖北卫视
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111041/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",湖北卫视
 rtp://239.253.112.51:9000
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111045/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",辽宁卫视
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111045/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",辽宁卫视
 rtp://239.253.112.56:9000
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111037/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",黑龙江卫视
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111037/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",黑龙江卫视
 rtp://239.253.112.47:9000
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111040/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",江西卫视
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111040/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",江西卫视
 rtp://239.253.112.80:9000
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111049/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",河南卫视
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111049/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",河南卫视
 rtp://239.253.112.60:9000
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111050/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",河北卫视
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111050/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",河北卫视
 rtp://239.253.112.61:9000
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111033/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",贵州卫视
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111033/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",贵州卫视
 rtp://239.253.112.43:9000
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111044/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",东南卫视
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111044/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",东南卫视
 rtp://239.253.112.54:9000
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111042/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",海南卫视
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111042/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",海南卫视
 rtp://239.253.112.212:9000
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111035/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",云南卫视
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111035/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",云南卫视
 rtp://239.253.112.45:9000
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111036/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",广西卫视
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111036/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",广西卫视
 rtp://239.253.112.46:9000
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111056/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",吉林卫视
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111056/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",吉林卫视
 rtp://239.253.112.246:9000
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111043/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",陕西卫视
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111043/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",陕西卫视
 rtp://239.253.112.53:9000
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111039/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",山西卫视
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111039/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",山西卫视
 rtp://239.253.112.49:9000
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111046/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",内蒙古卫视
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111046/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",内蒙古卫视
 rtp://239.253.112.57:9000
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111051/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",宁夏卫视
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111051/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",宁夏卫视
 rtp://239.253.112.62:9000
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111052/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",甘肃卫视
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111052/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",甘肃卫视
 rtp://239.253.112.93:9000
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111053/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",青海卫视
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111053/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",青海卫视
 rtp://239.253.112.69:9000
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111054/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",新疆卫视
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111054/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",新疆卫视
 rtp://239.253.112.70:9000
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111055/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",西藏卫视
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111055/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",西藏卫视
 rtp://239.253.112.71:9000
-
-#GROUP-TITLE:地方频道
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111013/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",重庆卫视
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="地方频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111013/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",重庆卫视
 rtp://239.253.112.1:9000
-#EXTINF:-1 tvg-id="重庆新闻" tvg-name="重庆新闻" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111014/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",重庆新闻
+#EXTINF:-1 tvg-id="重庆新闻" tvg-name="重庆新闻" group-title="地方频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111014/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",重庆新闻
 rtp://239.253.112.2:9000
-#EXTINF:-1 tvg-id="重庆影视剧" tvg-name="重庆影视剧" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111015/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",重庆影视剧
+#EXTINF:-1 tvg-id="重庆影视剧" tvg-name="重庆影视剧" group-title="地方频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111015/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",重庆影视剧
 rtp://239.253.112.3:9000
-#EXTINF:-1 tvg-id="重庆社会与法" tvg-name="重庆社会与法" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111016/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",重庆社会与法
+#EXTINF:-1 tvg-id="重庆社会与法" tvg-name="重庆社会与法" group-title="地方频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111016/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",重庆社会与法
 rtp://239.253.112.4:9000
-#EXTINF:-1 tvg-id="重庆红岩文化" tvg-name="重庆红岩文化" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111017/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",重庆红岩文化
+#EXTINF:-1 tvg-id="重庆红岩文化" tvg-name="重庆红岩文化" group-title="地方频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111017/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",重庆红岩文化
 rtp://239.253.112.5:9000
-#EXTINF:-1 tvg-id="重庆娱乐" tvg-name="重庆娱乐" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111018/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",重庆娱乐
+#EXTINF:-1 tvg-id="重庆娱乐" tvg-name="重庆娱乐" group-title="地方频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111018/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",重庆娱乐
 rtp://239.253.112.6:9000
-#EXTINF:-1 tvg-id="重庆新农村" tvg-name="重庆新农村" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111019/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",重庆新农村
+#EXTINF:-1 tvg-id="重庆新农村" tvg-name="重庆新农村" group-title="地方频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111019/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",重庆新农村
 rtp://239.253.112.7:9000
-#EXTINF:-1 tvg-id="重庆少儿" tvg-name="重庆少儿" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111020/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",重庆少儿
+#EXTINF:-1 tvg-id="重庆少儿" tvg-name="重庆少儿" group-title="地方频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111020/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",重庆少儿
 rtp://239.253.112.8:9000
-#EXTINF:-1 tvg-id="CQTV红叶" tvg-name="CQTV红叶" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111021/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CQTV红叶
+#EXTINF:-1 tvg-id="CQTV红叶" tvg-name="CQTV红叶" group-title="地方频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111021/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CQTV红叶
 rtp://239.253.112.9:9000
-#EXTINF:-1 tvg-id="重庆汽摩" tvg-name="重庆汽摩" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111022/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",重庆汽摩
+#EXTINF:-1 tvg-id="重庆汽摩" tvg-name="重庆汽摩" group-title="地方频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111022/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",重庆汽摩
 rtp://239.253.112.11:9000
-
-#GROUP-TITLE:教育/少儿
-#EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111064/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CETV-1
+#EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="教育频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111064/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CETV-1
 rtp://239.253.112.83:9000
-#EXTINF:-1 tvg-id="CETV-4" tvg-name="CETV-4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111063/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CETV-4
+#EXTINF:-1 tvg-id="CETV-4" tvg-name="CETV-4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="教育频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111063/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",CETV-4
 rtp://239.253.112.95:9000
-#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111065/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",山东教育
+#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" group-title="教育频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111065/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",山东教育
 rtp://239.253.112.94:9000
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111066/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",卡酷少儿
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="其他频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111066/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",卡酷少儿
 rtp://239.253.112.85:9000
-#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111072/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",嘉佳卡通
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="其他频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111072/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",嘉佳卡通
 rtp://239.253.112.67:9000
-
-#GROUP-TITLE:数字/其他
-#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111067/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",精彩影视
+#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" group-title="其他频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111067/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",精彩影视
 rtp://239.253.112.86:9000
-#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111068/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",求索纪录
+#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" group-title="其他频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111068/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",求索纪录
 rtp://239.253.112.87:9000
-#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球HD" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111069/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",高尔夫网球HD
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球HD" group-title="其他频道" catchup-source="http://ltccq.cqa.bcs.ottcn.com/000000002777/400000000100111069/1.m3u8?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z",高尔夫网球HD
 rtp://239.253.112.88:9000
