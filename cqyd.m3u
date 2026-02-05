@@ -1,4 +1,9 @@
-#EXTM3U x-tvg-url="https://epg.zsdc.eu.org/t.xml.gz"
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" catchup-source="http://ltccq.cqa.bcs.ottcn.com:80/000000002777/400000000100111001/1.m3u8?livemode=4&starttime={start|yyyyMMdd'T'HHmm}00.00Z&endtime={end|yyyyMMdd'T'HHmm}00.00Z",CCTV-1
+#EXTM3U x-tvg-url="https://epg.zsdc.eu.org/t.xml.gz" catchup="append" catchup-source="?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1
 http://ltccq.cqa.bcs.ottcn.com:80/000000001777/400000000100111001/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2
+http://ltccq.cqa.bcs.ottcn.com:80/000000001777/400000000100111002/1.m3u8
+
 
