@@ -1,9 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.zsdc.eu.org/t.xml.gz"
-
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" catchup="default" catchup-type="append" catchup-days="7" catchup-template="http://ltccq.cqa.bcs.ottcn.com:80/000000002777/400000000100111001/1.m3u8?livemode=4&starttime={start:yyyyMMdd'T'HHmm}00.00Z&endtime={end:yyyyMMdd'T'HHmm}00.00Z",CCTV-1
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" timeshift="7" catchup="default" catchup-template="http://ltccq.cqa.bcs.ottcn.com:80/000000002777/400000000100111001/1.m3u8?livemode=4&starttime={start:yyyyMMdd'T'HHmm}00.00Z&endtime={end:yyyyMMdd'T'HHmm}00.00Z",CCTV-1
 http://ltccq.cqa.bcs.ottcn.com:80/000000001777/400000000100111001/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" catchup="default" catchup-type="append" catchup-days="7" catchup-template="http://ltccq.cqa.bcs.ottcn.com:80/000000002777/400000000100111001/1.m3u8?livemode=4&starttime={start:yyyyMMdd'T'HHmm}00.00Z&endtime={end:yyyyMMdd'T'HHmm}00.00Z",CCTV-2
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" timeshift="7" catchup="default" catchup-template="http://ltccq.cqa.bcs.ottcn.com:80/000000002777/400000000100111001/1.m3u8?livemode=4&starttime={start:yyyyMMdd'T'HHmm}00.00Z&endtime={end:yyyyMMdd'T'HHmm}00.00Z",CCTV-2
 http://ltccq.cqa.bcs.ottcn.com:80/000000001777/400000000100111002/1.m3u8
 
 
