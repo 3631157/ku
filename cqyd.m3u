@@ -1,4 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 catchup="source" catchup-source="http://ltccq.cqa.bcs.ottcn.com:80/000000002777/400000000100111001/1.m3u8?livemode=4&starttime={yyyy}{mm}{dd}T{HH}{MM}00.00Z&endtime={yyyy}{mm}{dd}T{HH}{MM}00.00Z",CCTV-1
-http://ltccq.cqa.bcs.ottcn.com:80/000000001777/400000000100111001/1.m3u8
