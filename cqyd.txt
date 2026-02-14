@@ -1,0 +1,1 @@
+CCTV-1,http://ltccq.cqa.bcs.ottcn.com:80/000000002777/400000000100111001/1.m3u8#catchup=append&catchup-source=?livemode=4&starttime=${(b)yyyyMMddTHHmm00.00Z}&endtime=${(e)yyyyMMddTHHmm00.00Z}
