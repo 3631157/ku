@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.zsdc.eu.org/t.xml.gz"
 #EXTINF:-1 ,CCTV1 综合
 rtsp://123.147.112.150:554/04000001/01000000004000000000000000000147?AuthInfo=xxx&userid=
 #EXTINF:-1 ,CCTV2 财经
